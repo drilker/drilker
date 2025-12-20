@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm İlker </h1>
 <p align="center"> 
   
-<i> Results-driven engineer with over 3 years of experience in renewable energy R&D, production planning, warehouse management, and technical sales. 
+<i> Results-driven engineer with over 3 years of experience in renewable energy R&D, production planning, and technical sales. 
 
 </p>
 
