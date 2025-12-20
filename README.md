@@ -7,7 +7,7 @@
 
 ....
 
-# 💫 About Me
+# 💫 About Me 
 
 Graduated from university a GPA of 3.18
 Hands on exprience in R&D, Tubitak projects
@@ -32,6 +32,7 @@ Programming Language
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+🏆 Awards & Projects
 
 
 # 📊 GitHub Stats:
