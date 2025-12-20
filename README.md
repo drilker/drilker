@@ -36,8 +36,11 @@ Programming Language
 🏆 Awards & Projects
 
 TÜBİTAK 1004 Solar Cell Development
+
 Photoelectrochemical Biosensor
+
 DFT-based Molecular Analysis
+
 
 
 # 📊 GitHub Stats:
