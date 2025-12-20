@@ -9,9 +9,8 @@
 
 # 💫 About Me 
 
-!Graduated from university a GPA of 3.18
-
-!Hands on exprience in R&D, Tubitak projects
+Graduated from university a GPA of 3.18
+Hands on exprience in R&D, Tubitak projects
 
 
 # 💻 Tech Stack
