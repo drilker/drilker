@@ -37,6 +37,8 @@ Programming Language
 
 Python Programming for Data Science (Miuul) 
 
+• Google Project Management Professional Certificate 
+
 TÜBİTAK 1004 Solar Cell Development
 
 Photoelectrochemical Biosensor
