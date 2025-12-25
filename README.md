@@ -35,6 +35,8 @@ Programming Language
 
 🏆 Awards & Projects
 
+Python Programming for Data Science (Miuul) 
+
 TÜBİTAK 1004 Solar Cell Development
 
 Photoelectrochemical Biosensor
