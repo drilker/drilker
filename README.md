@@ -35,15 +35,15 @@ Programming Language
 
 🏆 Awards & Projects
 
-Python Programming for Data Science (Miuul) 
+• Python Programming for Data Science (Miuul) 
 
 • Google Project Management Professional Certificate 
 
-TÜBİTAK 1004 Solar Cell Development
+• TÜBİTAK 1004 Solar Cell Development
 
-Photoelectrochemical Biosensor
+• Photoelectrochemical Biosensor
 
-DFT-based Molecular Analysis
+• DFT-based Molecular Analysis
 
 
 
