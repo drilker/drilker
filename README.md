@@ -9,8 +9,10 @@
 
 # 💫 About Me 
 
-Student- Management Information Systems 
+Student - Management Information Systems 
+
 Graduated from university as engineer a GPA of 3.18
+
 Hands on exprience in R&D with Tubitak projects
 
 
